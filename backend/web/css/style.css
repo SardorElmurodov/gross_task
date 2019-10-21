@@ -1,0 +1,92 @@
+@import url("font-awesome.min.css");
+
+body {
+  background-color: #f8f9fa;
+}
+.mydiv {
+  padding: 15px;
+}
+.box {
+  background-color: #fff;
+  padding: 15px;
+  box-shadow: 2px 2px 2px #eee;
+}
+.box .box-header {
+  padding-top: 5px;
+}
+.box .box-header .percent {
+  width: 60%;
+  background-color: #4379ae;
+  color: #fff;
+  display: inline-block;
+  padding: 2px;
+  font-size: 80%;
+  margin-right: -15px;
+}
+a {
+  color: #4379ae;
+}
+h4.title {
+  margin-bottom: 20px;
+}
+.p5 {
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.p-15 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.del1 {
+  flex: 0 0 47%;
+  border-bottom: 2px solid #eee;
+  margin: 3px 0 0 0;
+  padding: 0;
+}
+.del2 {
+  flex: 0 0 47%;
+  border-bottom: 2px solid #eee;
+  margin: 3px 0 0 0;
+  padding: 0;
+}
+.dotdiv {
+  flex: 0 0 6%;
+  margin: 0;
+  padding: 0;
+}
+.dot {
+  height: 8px;
+  width: 8px;
+  border: 1px solid #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.ui-slider-horizontal {
+  height: 4px !important;
+}
+.single-loan-slider h6 {
+  margin-top: 20px;
+  display: inline-block;
+}
+.ui-widget-header {
+  background-color: #007bff !important;
+}
+.ui-state-default{
+  border-radius: 50% !important;
+  background-color: #007bff !important;
+  margin-top: -5px !important;
+}
+.current-cost {
+  position: absolute;
+  width: 100px;
+  background-color: #007bff;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 80%;
+  padding: 3px;
+  text-align: center;
+}
+#policy_cost_usd  {
+  color: #ddd;
+}
+
